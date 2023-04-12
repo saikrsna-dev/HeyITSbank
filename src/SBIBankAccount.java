@@ -1,6 +1,8 @@
 import java.util.UUID;
 
 public class SBIBankAccount implements Bank{
+    // Heeey its sbi bank
+    // below are the attributes
     private int balance;
     private String name;
     private int roi;
